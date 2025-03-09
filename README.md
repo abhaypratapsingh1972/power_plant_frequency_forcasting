@@ -15,7 +15,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow statsmodels
 
 Usage: 
 Clone the repository:
-git clone https://gitub.com/abhaypratapsingh1972/power_plant_forecasting
+git clone (https://github.com/abhaypratapsingh1972/power_plant_frequency_forcasting)
 cd power-plant-forecasting
 Run all cells to train and evaluate the ARIMA and LSTM models.
 
